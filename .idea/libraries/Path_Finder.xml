@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Path_Finder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/pathfinder.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/pathfinder-javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/pathfinder-source" />
+    </SOURCES>
+  </library>
+</component>
